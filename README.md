@@ -31,4 +31,4 @@ ReturnStatus
 
 * Inserted values in each table.
 * Based on the table, some insights are collected.
-** Book title, category, and rental price of all available books **
+**Book title, category, and rental price of all available books**
