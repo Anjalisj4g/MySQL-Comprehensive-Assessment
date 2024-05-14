@@ -5,7 +5,7 @@ I have build a project based on Library Management System on MySQL workbench. It
 
 * Created a database Library.
 * Created six tables with their attributes.
-* Branch
+ Branch
   
 ![image](https://github.com/Anjalisj4g/MySQL-Comprehensive-Assessment/assets/162909803/e1fb0a58-6e0d-4b79-b556-3f7303018b2e)
 
@@ -29,3 +29,6 @@ ReturnStatus
 
 ![image](https://github.com/Anjalisj4g/MySQL-Comprehensive-Assessment/assets/162909803/c28ddfdb-df95-47b0-8c37-25d5caed7c7e)
 
+* Inserted values in each table.
+* Based on the table, some insights are collected.
+** Book title, category, and rental price of all available books **
