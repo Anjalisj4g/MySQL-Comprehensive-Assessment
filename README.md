@@ -44,7 +44,7 @@ ReturnStatus
 
 ![image](https://github.com/Anjalisj4g/MySQL-Comprehensive-Assessment/assets/162909803/45c8dcbf-d5a4-4518-bcac-6a6077943571)
 
-**the total count of books in each category**
+**The total count of books in each category**
 
 ![image](https://github.com/Anjalisj4g/MySQL-Comprehensive-Assessment/assets/162909803/63da455c-e021-4b8d-8496-341faa9deed6)
 
